@@ -1,7 +1,4 @@
 learning Git
 new add words
-<<<<<<< HEAD
 commit record index status
-=======
 pull gets the contents of the remote repository
->>>>>>> 176e8758a7f1efc89fe3811123f3018e2531b5e7
