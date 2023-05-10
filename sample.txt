@@ -1,2 +1,3 @@
 learning Git
 new add words
+pull gets the contents of the remote repository
