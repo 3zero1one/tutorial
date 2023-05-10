@@ -1,2 +1,3 @@
 learning Git
 new add words
+commit record index status
